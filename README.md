@@ -1,7 +1,7 @@
 # Calculadora
 Uma calculadora, simples, porém muito didática para quem está iniciando na programação.
 
-Esse projeto foi realizado de forma didática através de um vídeo(que vou deixar o link aqui no README, para quem quiser aprender também :) ).
+Esse projeto foi realizado de forma didática através de um vídeo(que vou deixar o link aqui no README, para quem quiser aprender também :))
 
 ## Processos
 
