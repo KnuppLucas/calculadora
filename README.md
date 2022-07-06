@@ -11,3 +11,8 @@ A estilização da página se da pela linguagem CSS. **que foi a parte mais inov
 ## Considerações finais
 
 Foi um projeto de muito aprendizado, ainda mais na parte de estilização do CSS. Estava acostumado a utilizar o Flex para fazer os posicionamentos, mas nesse projeto foi utilizado o display Grid, nos botões. Uma coisa que venho aprendendo nessa minha trajetória na programação é que se desafiar é o principal fator para conseguir evoluir, explorar e se divertir com todas as funções que existem e que vão existir das linguagens é muito importante e divertido.
+
+## Referência
+
+Aqui vai o link para vocês se divertirem e aprenderem. Esse canal vem me ajudando muito. Estou fazendo vários projetos baseados nos vídeos dele, portanto, recomendo demais que deêm uma olhada no conteúdo desse canal.
+Apreciem com moderação: https://www.youtube.com/watch?v=KCfaPZ2t2yA
