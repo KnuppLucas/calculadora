@@ -16,3 +16,5 @@ Foi um projeto de muito aprendizado, ainda mais na parte de estilização do CSS
 
 Aqui vai o link para vocês se divertirem e aprenderem. Esse canal vem me ajudando muito. Estou fazendo vários projetos baseados nos vídeos dele, portanto, recomendo demais que deêm uma olhada no conteúdo desse canal.
 Apreciem com moderação: https://www.youtube.com/watch?v=KCfaPZ2t2yA
+
+![image](https://user-images.githubusercontent.com/102392874/211070478-6770bc06-f05a-4e80-a309-ca8fc780500c.png)
